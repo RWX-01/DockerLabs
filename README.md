@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="DockerLabs(1).png">
+  <img src="DockerLabs1.png">
 </p>
 This repository contains my solutions for the machines from DockerLabs.
